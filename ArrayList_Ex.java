@@ -38,6 +38,7 @@ static Scanner sc = new Scanner(System.in);
         count ++;
         }
         System.out.println(count + " Names added !!");
+        System.out.println("Names after adding: " + Name);
     }
 
 
